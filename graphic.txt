@@ -1,0 +1,6 @@
+Finded in Estonia ,38 544
+recovered in Estonia,28 107
+Died in Estonia,349
+Finded in word,96 868 849
+recovered in  word,53 386 170
+Died in word,2 074 886
